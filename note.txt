@@ -1,0 +1,4 @@
+npx create-next-app hulu-2-yt
+rfce
+https://heroicons.com/
+npm install @heroicons/react
